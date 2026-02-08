@@ -10,6 +10,7 @@ This Power BI project analyzes e-commerce business performance, focusing on sale
 - Data Visualization
 
 ## 📁 Dataset
+The dataset used in this project is large (~60MB) and therefore not included in this repository.
 The dataset contains e-commerce transaction data including:
 - Orders
 - Customers
